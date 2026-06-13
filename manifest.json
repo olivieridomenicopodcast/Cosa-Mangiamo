@@ -1,0 +1,25 @@
+{
+  "name": "Cosa Mangiamo?",
+  "short_name": "Cosa Mangiamo",
+  "description": "Il ricettario di Niky & Erika — piatti preferiti, ingredienti e preparazioni",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDF6EC",
+  "theme_color": "#C8622A",
+  "orientation": "portrait-primary",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
